@@ -8,3 +8,10 @@ if(name == "Makise Kurisu") {
   console.log("You are beautiful, Christina!");
 }
 ```
+
+Checklist:
+- [x] Learn programming
+- [ ] Apply for a job
+- [ ] Get hired
+- [ ] ?
+- [ ] Profit
